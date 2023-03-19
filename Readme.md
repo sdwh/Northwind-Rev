@@ -1,4 +1,4 @@
 # Northwind Rev
 
-![](/Images/Andrew Fuller.png)
-![](/Images/Andrew Fuller-res.png)
+![Before]("../Images/Andrew Fuller.png")
+![After]("../Images/Andrew Fuller-res.png")
